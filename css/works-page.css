@@ -1,0 +1,154 @@
+/*-------------------------Only Work pages content ---------------------------*/
+
+/* .work-section{
+	
+} */
+.work-section h2{
+	/* color: #555555;	 */
+}
+.work-section h4{
+	/* color: #555555; */
+	font-size: 24px;
+}
+.work-section p{
+    /* color: #555555; */
+    font-size: 16px;
+    margin-top: 20px;
+    -webkit-font-smoothing: antialiased;
+}
+.work-section a{
+	color: #555555;
+	text-decoration: none;
+	font-weight: bold;
+	-webkit-font-smoothing: antialiased;
+}
+.project-desc{
+	margin-top: 30px;
+	margin-bottom: 60px;
+	text-align: center;
+}
+.project-desc h4{
+	margin-bottom: 20px;
+}
+.header-link-black{
+	color: #010101;
+}
+
+.has-error .form-control{
+	border-bottom: 2px solid rgba(197, 4, 14, 0.6)!important;
+}
+
+.rounded{
+	/* border-radius: 25px 25px 25px 25px; */
+	border-radius: 60px 60px 60px 60px;
+	overflow: hidden;
+	margin: 4em auto;
+    width: 60%;
+}
+#banner-section-work{
+	background: #528dc8;
+}
+#banner-section-work .tagline{
+	font-size: 40px;
+	font-weight: 400;
+	-webkit-font-smoothing: antialiased;
+}
+.filter-title{
+	font-weight: 500;
+}
+.filter-title a{
+	color: #fff!important;
+}
+.filter-title a:hover{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.view {
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+
+    height: 350px;
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    
+}
+.view .mask, .view .work-description {
+    width: 100%;
+    height: 300px;
+    color: #fff;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0
+}
+
+.view:hover{
+	overflow: hidden;
+	
+}
+.view-second:hover img { 
+	transform: scale(1.1);
+} 
+.view-second img { 	
+	transition: all 0.2s ease-in;
+	width: 100%;
+}
+.view-second .mask {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1200px;
+    /* padding: 60px; */
+    height: 900px;
+    opacity: 0;
+    transform: translate(265px, 145px) rotate(45deg);
+    transition: all 0.2s ease-in-out;
+}
+.view-second h2 {
+    background: transparent;
+    margin: 140px 40px 0px 40px;
+    font-weight: 400;
+    font-size: 
+    -webkit-font-smoothing: antialiased;
+    -webkit-transform: translate(200px, -200px);
+    transform: translate(200px, -200px);
+	transition: all 0.2s ease-in-out;
+	
+}
+.view-second p { 
+	transform: translate(-200px, 200px);
+	transition: all 0.2s ease-in-out;
+	font-size: 16px;
+	letter-spacing: 0.4px;
+}
+.view-second a.info { 
+    transform: translate(0px, 100px);
+	transition: all 0.2s 0.1s ease-in-out;
+} 
+.view-second:hover .mask { 
+	opacity:1; 
+	transform: translate(-80px, -125px) rotate(45deg);
+}							  
+.view-second:hover h2 { 
+	transform: translate(0px,0px);
+	transition-delay: 0.3s; 
+}
+.view-second:hover p { 
+    transform: translate(0px,0px); 
+	transition-delay: 0.4s;
+}
+.view-second:hover a.info { 
+	transform: translate(0px,0px); 
+	transition-delay: 0.5s;
+}
+/*-------------------------Only Work pages content ---------------------------*/
+#geohives{
+	background: #c5e1a6;
+}
+#investReady{
+	background: #f1f1f1;
+}
+#yolocal{
+	background: #223356;
+}
