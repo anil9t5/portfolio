@@ -19,7 +19,6 @@
   .rounded {
     border-radius: 3em 3em 3em 3em !important;
     margin: 6em auto !important;
-    width: 30% !important;
   }
   header .intro-text p {
     width: 17em;
@@ -58,7 +57,6 @@
   .rounded {
     border-radius: 3em 3em 3em 3em !important;
     margin: 6em auto !important;
-    width: 30% !important;
   }
 }
 
