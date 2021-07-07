@@ -112,6 +112,9 @@
   .form-section {
     padding: 15px;
   }
+  .skyline-bg {
+    display: none;
+  }
 }
 
 /* iphone 6+, 6s+, 7+, 8+ */
@@ -136,6 +139,9 @@
   }
   .form-section {
     padding: 15px;
+  }
+  .skyline-bg {
+    display: none;
   }
 }
 
@@ -162,6 +168,9 @@
   .form-section {
     padding: 15px;
   }
+  .skyline-bg {
+    display: none;
+  }
 }
 
 /* iphone 12, 12 Pro */
@@ -183,6 +192,9 @@
   }
   .form-section {
     padding: 15px;
+  }
+  .skyline-bg {
+    display: none;
   }
 }
 
@@ -209,6 +221,9 @@
   .form-section {
     padding: 15px;
   }
+  .skyline-bg {
+    display: none;
+  }
 }
 
 /* iphone XS Max, 11 Pro Max */
@@ -233,6 +248,9 @@
   }
   .form-section {
     padding: 15px;
+  }
+  .skyline-bg {
+    display: none;
   }
 }
 
@@ -259,6 +277,9 @@
   .form-section {
     padding: 15px;
   }
+  .skyline-bg {
+    display: none;
+  }
 }
 
 /* Smartphones in portrait mode (0-479px) */
@@ -284,5 +305,8 @@
   }
   .form-section {
     padding: 15px;
+  }
+  .skyline-bg {
+    display: none;
   }
 }
