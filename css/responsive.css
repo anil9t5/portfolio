@@ -88,3 +88,201 @@
     border-radius: 0% 0% 5% 5% / 5%;
   }
 }
+
+/* iphone 6, 6s, 7, 8 */
+@media only screen and (min-device-width: 375px) and (max-device-height: 667px) and (-webkit-device-pixel-ratio: 2) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -40% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone 6+, 6s+, 7+, 8+ */
+@media only screen and (min-device-width: 414px) and (max-device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -40% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone X , XS, 11 Pro, 12 Mini */
+@media only screen and (min-device-width: 375px) and (max-device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -50% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone 12, 12 Pro */
+@media only screen and (min-device-width: 390px) and (max-device-height: 844px) and (-webkit-device-pixel-ratio: 3) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -60% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone XR, 11 */
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (-webkit-device-pixel-ratio: 2) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -50% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone XS Max, 11 Pro Max */
+@media only screen and (min-device-width: 414px) and (max-device-height: 896px) and (-webkit-device-pixel-ratio: 3) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -60% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* iphone 12 Pro Max */
+@media only screen and (min-device-width: 428px) and (max-device-height: 926px) and (-webkit-device-pixel-ratio: 3) {
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -60% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
+
+/* Smartphones in portrait mode (0-479px) */
+@media only screen and (max-width: 479px) {
+  /* your css goes here */
+  .intro-text {
+    font-size: 36px !important;
+    margin-top: -60% !important;
+  }
+  header .intro-text span {
+    font-size: 100px !important;
+  }
+  .hide-nav {
+    display: none;
+  }
+  .project-showcase {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+  .project-desc {
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .form-section {
+    padding: 15px;
+  }
+}
