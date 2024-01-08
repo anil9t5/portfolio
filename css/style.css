@@ -359,6 +359,11 @@ header .intro-text span{
   font-size: 180px!important;
   font-family: 'Work Sans', sans-serif!important;
 }
+header .sub-headline{
+  font-size: 22px;
+  color: #ffffff;
+  font-family: 'Work Sans', sans-serif!important; 
+}
 div#intro.row{
 	text-align: left;
 	position: relative;
@@ -419,7 +424,6 @@ ul{
 	padding: 15px 30px;
 	margin-bottom: -20px;
   z-index: 3;
-  left: 8%;
 }
 .scroll-down:hover, .scroll-down:focus{
 	color: #2a406f;
